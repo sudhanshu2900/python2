@@ -1,0 +1,10 @@
+Here we do swapping of two numbers in python
+
+a=input(int("Enter first no"))
+b=input(int("Enter second no"))
+
+swap(a,b)
+
+
+I/P -> a=10, b=20
+O/P -> a=20, b=10
